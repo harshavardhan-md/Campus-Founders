@@ -214,7 +214,6 @@ Meet the visionaries behind Campus Founders:
 ## 🏆 Recognition
 
 - 🥇 **Build For Bengaluru Hackathon 2025** - 1st Place Winner
-- 🏅 **NASSCOM Startup Showcase 2025** - Top 10 Student Ventures
 
 ## 📚 Get Involved
 
@@ -225,7 +224,7 @@ We believe in the power of community to enhance the startup ecosystem:
 - 🤝 **Partner with Us**: Are you a college or incubator? Let's collaborate!
 - 💻 **Contribute**: Check our contribution guidelines for developers
 
-## 📊 Impact Numbers
+## 📊 Goals
 
 <table>
   <tr>
